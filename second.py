@@ -1,5 +1,3 @@
-pip install scikit-learn-extra
-
 import streamlit as st
 import pandas as pd
 from sklearn_extra.cluster import KMedoids
