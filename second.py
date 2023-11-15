@@ -1,4 +1,4 @@
-pip install scikit-learn-extra!pip install scikit-learn-extra
+pip install scikit-learn-extra
 
 import streamlit as st
 import pandas as pd
